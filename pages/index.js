@@ -1,12 +1,12 @@
 import Head from 'next/head';
-import Layout, { NoTalentRequired } from '../components/layout';
+import Layout, {siteTitle } from '../components/layout';
 import utilStyles from '../styles/utils.module.css';
 
 export default function Home() {
   return (
     <Layout home>
       <Head>
-        <title>{NoTalentRequired}</title>
+        <title>{siteTitle}</title>
       </Head>
     <title>No Talent Required</title>
       <section className={utilStyles.headingMd}>
