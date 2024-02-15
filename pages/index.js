@@ -8,6 +8,7 @@ export default function Home() {
       <Head>
         <title>{siteTitle}</title>
       </Head>
+    <title>No Talent Required</title>
       <section className={utilStyles.headingMd}>
       <p><b>Hello! I am Miguel Francis Carlos a student web developer!!</b></p>
         <p><b>10 Things That Require Zero Talent</b></p>
@@ -28,7 +29,7 @@ export default function Home() {
         <li>2. Enjoyable</li>
         <li>3. A lot of work and thinking</li>
         <p>
-          (This is a sample website - you’ll be building a site like this on{' '}
+          (This is a sample website - you’ll be building a site like this on our Next.js tutorial.)
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
         </p>
       </section>
