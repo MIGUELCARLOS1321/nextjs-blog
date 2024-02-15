@@ -29,7 +29,7 @@ export default function Home() {
         <li>2. Enjoyable</li>
         <li>3. A lot of work and thinking</li>
         <p>
-          (This is a sample website - you’ll be building a site like this on our Next.js tutorial.)
+          (This is a sample website - you’ll be building a site like this on our ''.)
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
         </p>
       </section>
